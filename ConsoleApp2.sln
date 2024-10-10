@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{E36FB055-4E86-4C0F-99A7-8BA08B007F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{61377FBD-60D3-4193-9733-587127D635EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{717743FF-68A0-49C5-8AC8-468242FE7F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36FB055-4E86-4C0F-99A7-8BA08B007F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36FB055-4E86-4C0F-99A7-8BA08B007F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36FB055-4E86-4C0F-99A7-8BA08B007F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36FB055-4E86-4C0F-99A7-8BA08B007F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61377FBD-60D3-4193-9733-587127D635EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61377FBD-60D3-4193-9733-587127D635EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61377FBD-60D3-4193-9733-587127D635EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61377FBD-60D3-4193-9733-587127D635EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717743FF-68A0-49C5-8AC8-468242FE7F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717743FF-68A0-49C5-8AC8-468242FE7F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717743FF-68A0-49C5-8AC8-468242FE7F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717743FF-68A0-49C5-8AC8-468242FE7F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE01B0B5-EC5D-46DC-8932-2C500F1302DF}
+	EndGlobalSection
+EndGlobal
